@@ -1,5 +1,5 @@
 # [Nutritional-Bases](https://imgur.com/a/3uIYmzJ)
-Free time project - data visualisation training combined with my interest for diet. Reddit post: https://www.reddit.com/r/dataisbeautiful/comments/96xnku/coverage_of_nutritional_bases_in_5_pictures_see/
+Coverage of nutritional bases in 5 pictures. Free time project - data visualisation training combined with my interest for diet. Reddit post: https://www.reddit.com/r/dataisbeautiful/comments/96xnku/coverage_of_nutritional_bases_in_5_pictures_see/
 
 -----------
 
